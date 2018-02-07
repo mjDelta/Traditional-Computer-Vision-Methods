@@ -10,3 +10,8 @@ For ```skimage.measure.find_contours```, it only takes 0-1 valued mask image as 
 For ```skimage.measure.equalize_adapthist```, it makes the image contrast more obvious. It maybe helpful in preprocessing.</br>
 ![image](https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/img/hist.png)</br>
 
+## 3.<a href="https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/morphology.py">Hist</a></br>
+For ```skimage.measure.morphology```, it can do dilation, erosion, opening, closing etc.</br>
+In this image, dilation help remove some confusing edges of the nucleus. Erosion expand the edges of the nucleus.</br> 
+![image](https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/img/morphology.png)</br>
+
