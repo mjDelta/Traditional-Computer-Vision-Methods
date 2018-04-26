@@ -15,3 +15,11 @@ For ```skimage.measure.morphology```, it can do dilation, erosion, opening, clos
 In this image, dilation help remove some confusing edges of the nucleus. Erosion expand the edges of the nucleus.</br> 
 ![image](https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/img/morphology.png)</br>
 
+## 4.<a href="https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/connected_component_labeling.py">connected_component_labeling</a></br>
+For ```skimage.measure.label```, it can find the connected component objects. But first turn the image into gray scale.</br>
+![image](https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/img/label.png)</br>
+
+
+## 5.<a href="https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/remove_small_objects.py">remove_small_objects</a></br>
+For ```skimage.morphology.remove_small_objects```, it can remove the small objects by counting how many pixels the connected components should at least have. But first turn the image into gray scale.</br>
+![image](https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/img/remove_small_objects.png)</br>
