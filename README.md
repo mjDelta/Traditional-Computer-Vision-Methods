@@ -23,3 +23,8 @@ For ```skimage.measure.label```, it can find the connected component objects. Bu
 ## 5.<a href="https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/remove_small_objects.py">remove_small_objects</a></br>
 For ```skimage.morphology.remove_small_objects```, it can remove the small objects by counting how many pixels the connected components should at least have. But first turn the image into gray scale.</br>
 ![image](https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/img/remove_small_objects.png)</br>
+
+## 6.<a href="https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/dlib_detect_face.py">dlib_detect_face</a></br>
+For ```dlib.get_frontal_face_detector```, it can detect people faces quickly.It implements the algorithm in </br>
+> One Millisecond Face Alignment with an Ensemble of Regression Trees
+![image](https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/img/dlib.png)</br>
