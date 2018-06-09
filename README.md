@@ -27,4 +27,4 @@ For ```skimage.morphology.remove_small_objects```, it can remove the small objec
 ## 6.<a href="https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/dlib_detect_face.py">dlib_detect_face</a></br>
 For ```dlib.get_frontal_face_detector```, it can detect people faces quickly.It implements the algorithm in </br>
 > One Millisecond Face Alignment with an Ensemble of Regression Trees
-<div align=center><img width="500" height="300" src="https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/img/dlib.png"/></div>
+<img width="500" height="300" src="https://github.com/mjDelta/Traditional-Computer-Vision-Methods/blob/master/img/dlib.png"/>
